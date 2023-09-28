@@ -1,0 +1,1 @@
+import{a as t,r as e,b as c,e as a,f as l,o as r}from"./entry.241c1a29.js";const d={__name:"index",setup(_){return t({titleTemplate:"%s - Parallax Slider"}),(i,m)=>{const o=e("ShowcasesNavigation"),s=e("ShowcasesMenu"),n=e("ShowcasesParallaxSlider");return r(),c("div",null,[a(o),a(s),l("main",null,[a(n)])])}}};export{d as default};
